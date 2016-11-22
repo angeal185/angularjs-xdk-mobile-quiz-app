@@ -1,0 +1,24 @@
+{
+  "name": "angular-quiz",
+  "description": "angularjs quiz app",
+  "main": "index.html",
+  "authors": [
+    "Ben Eaves"
+  ],
+  "license": "MIT",
+  "homepage": "angeal185.github.io",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-sanitize": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "font-awesome-stylus": "^4.6.3"
+  }
+}
